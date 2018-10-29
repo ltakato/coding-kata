@@ -1,8 +1,8 @@
 {
-  "name": "fuzzybuzz",
+  "name": "code-kata",
   "version": "1.0.0",
   "description": "",
-  "main": "fuzzybuzz.js",
+  "main": "",
   "scripts": {
     "test": "jest"
   },
