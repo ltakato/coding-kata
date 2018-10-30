@@ -4,6 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
+    "fizzbuzz": "node 01-fizzbuzz/application",
     "test": "jest"
   },
   "author": "",
