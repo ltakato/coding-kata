@@ -41,7 +41,7 @@ describe('kata 02 - foobarqix - digitDetect', () =>  {
     it('should return Foo and Bar if contains 3 and 5', () => {
         expect(digitDetect(35)).toBe('FooBar');
     });
-    it('should return nothing if not 3, 5 or 7', () => {
+    it('should return empty string if not contains 3, 5 or 7', () => {
         expect(digitDetect(1)).toBe('');
         expect(digitDetect(2)).toBe('');
         expect(digitDetect(4)).toBe('');
